@@ -1,0 +1,27 @@
+﻿--- 
+services: 
+  - 
+    
+    endpoint: "http://127.0.0.1:8200/1"
+    key: serviceOne
+    name: "Service One"
+  - 
+    
+    endpoint: "http://127.0.0.1:8200/2"
+    key: serviceTwo
+    name: "Service Two"
+  - 
+  
+    endpoint: "http://127.0.0.1:8200/3"
+    key: serviceThree
+    name: "Service Three"
+  - 
+   
+    endpoint: "http://127.0.0.1:8200/4"
+    key: serviceFour
+    name: "Service Four"
+  - 
+    
+    endpoint: "http://127.0.0.1:8200/5"
+    key: serviceFive
+    name: "Service Five"
